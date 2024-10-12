@@ -11,13 +11,21 @@ Additionally, I gained experience working with version control tools such as Git
 HTML: Structure of the web app.
 CSS: Styling and layout for responsive design.
 JavaScript: Logic and interactivity for playback controls.
-Features
+
+# Features
+
 Play/Pause: Allows the user to start or pause the playback of the currently selected track.
 Next/Previous: Enables the user to skip to the next or previous track in the playlist or album.
 Seek: Allows the user to manually move forward or backward within a track by dragging a slider or clicking on a progress bar.
 Now Playing Section: Displays the currently playing song along with its album artwork.
 
 # Screenshots
+![Home Page-1](https://github.com/suvammohapatra93/Spotify-Clone-Frontend/blob/master/Screenshots/Spotify-2.png?raw=true)
+![Home Page-2](https://github.com/suvammohapatra93/Spotify-Clone-Frontend/blob/master/Screenshots/Spotify-3.png)
+![Home Page-3](https://github.com/suvammohapatra93/Spotify-Clone-Frontend/blob/master/Screenshots/Spotify-4.png)
+![Premium Page-1](https://github.com/suvammohapatra93/Spotify-Clone-Frontend/blob/master/Screenshots/Spotify-5.png)
+![Premium Page-2](https://github.com/suvammohapatra93/Spotify-Clone-Frontend/blob/master/Screenshots/Spotify-6.png)
+![Music Play Page](https://github.com/suvammohapatra93/Spotify-Clone-Frontend/blob/master/Screenshots/Spotify-1.png)
 
 # License
 
